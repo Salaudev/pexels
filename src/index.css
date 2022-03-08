@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.css-1oqqzyl-MuiContainer-root {
+  max-width: 1700px !important;
+}
